@@ -4,6 +4,7 @@
  These labs were:
  - Written by [Dr. Abdelhay Ali](https://ccsl.kaust.edu.sa/profiles/abdelhay-ali).
  - Revised by [Hao Liu](https://accl.kaust.edu.sa/author/hao-liu/) and [Mojtaba AlShams](https://cemse.kaust.edu.sa/profiles/mojtaba-alshams)
+ - Supervised by [Prof. Ahmed Eltawil](https://cemse.kaust.edu.sa/profiles/ahmed-eltawil)
 ## GitHub Page Link QR Code
 
 ## Labs and Solutions
