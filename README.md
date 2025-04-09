@@ -6,15 +6,16 @@
  - Revised by [Hao Liu](https://accl.kaust.edu.sa/author/hao-liu/) and [Mojtaba AlShams](https://cemse.kaust.edu.sa/profiles/mojtaba-alshams)
  - Supervised by [Prof. Ahmed Eltawil](https://cemse.kaust.edu.sa/profiles/ahmed-eltawil)
 ## GitHub Page Link QR Code
+<img src="The course github page link.png" width="300"/>
 
 ## Labs and Solutions
 
 | Labs                                         | Lab Link  | Solutions  |
 |----------------------------------------------|------------|------------|
 | Lab1                          |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_1/Lab1_notebook_MNIST.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |          |
-| Lab2                       |       |          |
+| Lab2                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_2/name here.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |          |
 | Lab3                          | <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_3/lab3-cnn.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |          |
-| Lab4                                       | Lab 4      |          |
+| Lab4                                       | <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_4/name here.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |          |
 
 ## Demos Codes
 
