@@ -6,6 +6,8 @@
  - Revised by [Hao Liu](https://accl.kaust.edu.sa/author/hao-liu/) and [Mojtaba AlShams](https://cemse.kaust.edu.sa/profiles/mojtaba-alshams)
  - Supervised by [Prof. Ahmed Eltawil](https://cemse.kaust.edu.sa/profiles/ahmed-eltawil)
 ## GitHub Page Link QR Code
+<img src="images/example.pngThe course github page link.png" width="300"/>
+![My Image](The course github page link.png)
 
 ## Labs and Solutions
 
