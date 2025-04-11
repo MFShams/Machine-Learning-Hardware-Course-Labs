@@ -13,7 +13,7 @@
 | Labs                                         | Lab Link  | Solutions  |
 |----------------------------------------------|------------|------------|
 | Lab1                          |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_1/Lab1_notebook_MNIST.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |          |
-| Lab2                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_2/lab2_fcnn-notebook.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |          |
+| Lab2                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_2/lab2_fcnn_notebook.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |          |
 | Lab3                          | <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_3/labx-cnn.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |          |
 | Lab4                                       | <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_4/name here.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>      |          |
 
