@@ -1,7 +1,7 @@
 # Machine Learning Hardware Course Labs
  These are the labs for the first part of the course 'Machine Learning Hardware Course Labs'. It consist of four interactive labs distributed across four days.
 
- These labs were:
+ Labs from day-1 to day-4 were:
  - Written by [Dr. Abdelhay Ali](https://ccsl.kaust.edu.sa/profiles/abdelhay-ali).
  - Revised by [Hao Liu](https://accl.kaust.edu.sa/author/hao-liu/) and [Mojtaba AlShams](https://cemse.kaust.edu.sa/profiles/mojtaba-alshams)
  - Supervised by [Prof. Ahmed Eltawil](https://cemse.kaust.edu.sa/profiles/ahmed-eltawil)
