@@ -18,7 +18,7 @@
 | Lab4a                                       | <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_4/lab4a_ml_hardware.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
 | Lab4b                                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_4/Lab4b_HW benchmarking.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
 | Lab5                                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_5/lab5.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
-
+| Lab6                                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_6/lab6.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
 ## Demos Codes
 
 | Demo                                         | Demo Link  |
