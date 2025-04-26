@@ -19,9 +19,9 @@
 | Lab4b                                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_4/Lab4b_HW benchmarking.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
 | Lab5                                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_5/lab5.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
 | Lab6                                       |  <a href="https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_6/lab6.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>|          |
-| Lab7a                                       |  [Link](https://urldefense.com/v3/__https://colab.research.google.com/drive/1hQHxKFLX0V8dCuqzGGH4PqMwAbKV2Whd?usp=sharing__;!!Nmw4Hv0!wV7wDRg4aQHeoUgPH1hPillu1_ZVcHPiRgLkygwDBjmNmHLyAOY3BMBc8q6dPDmlUc2CtICmFdq3p_3h3IKTHy_39leN5YIJK_u0Pse7$)|          |
-| Lab7b                                       |  [Link](https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_6/lab6.ipynb)|          |
-| Lab7c                                       |  [Link](https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_6/lab6.ipynb)|          |
+| Lab7a                                       |  [Code](https://urldefense.com/v3/__https://colab.research.google.com/drive/1hQHxKFLX0V8dCuqzGGH4PqMwAbKV2Whd?usp=sharing__;!!Nmw4Hv0!wV7wDRg4aQHeoUgPH1hPillu1_ZVcHPiRgLkygwDBjmNmHLyAOY3BMBc8q6dPDmlUc2CtICmFdq3p_3h3IKTHy_39leN5YIJK_u0Pse7$)|          |
+| Lab7b                                       |  [Code](https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_6/lab6.ipynb)|          |
+| Lab7c                                       |  [Code](https://colab.research.google.com/github/MFShams/Machine-Learning-Hardware-Course-Labs/blob/main/Day_6/lab6.ipynb)|          |
 ## Demos Codes
 
 | Demo                                         | Demo Link  |
